@@ -1,0 +1,25 @@
+Codigo | Nombre | Tipo
+11|Cuentas por cobrar|Activo
+12|Otras propiedades, planta y equipo|Activo
+13|Activos intangibles y plusvalía|Activo
+14|Marcas comerciales|Activo
+15|Programas de computador|Activo
+16|Licencias y franquicias|Activo
+17|Derechos de propiedad intelectual, patentes y otros|Activo
+18|Recetas, fórmulas, modelos, diseños y prototipos|Activo
+19|Activos intangibles en desarrollo|Activo
+20|Inversiones en subsidiarias, negocios conjuntos y asociadas|Activo
+21|Deudores comerciales|Activo
+22|Cuentas por cobrar|Activo
+23|Activos financieros|Activo
+25|Cuentas corrientes|Activo
+26|Depósitos a corto plazo|Activo
+27|Inversiones a corto plazo|Activo
+28|Cuentas por pagar comerciales|Pasivo
+29|Impuestos por pagar|Pasivo
+30|Préstamos bancarios|Pasivo
+31|Obligaciones con el público|Pasivo
+32|Obligaciones por leasing|Pasivo
+33|Capital emitido|PatrimonioNeto
+34|Ganancias (pérdidas) acumuladas|PatrimonioNeto
+3|Mauricio|Pasivo
