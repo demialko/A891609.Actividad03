@@ -22,18 +22,14 @@ namespace A891609.Actividad03
         public Cuenta(string linea)
         {
             var datosCuenta = linea.Split('|');
-            //Prueba
             if (!int.TryParse(datosCuenta[0], out var codigo))
             {
                 codigo =  -1;
             }
-            //
             Codigo = codigo;
-            //Codigo = int.Parse(datosCuenta[0]);
             Nombre = datosCuenta[1];
             Tipo = datosCuenta[2];
         }
-        //Prueba mayor
         public Cuenta(int codigo)
         {
             Codigo = codigo;

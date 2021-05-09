@@ -22,4 +22,3 @@ Codigo | Nombre | Tipo
 32|Obligaciones por leasing|Pasivo
 33|Capital emitido|PatrimonioNeto
 34|Ganancias (pérdidas) acumuladas|PatrimonioNeto
-3|Mauricio|Pasivo

@@ -74,7 +74,7 @@ namespace A891609.Actividad03
             return null;
         }
 
-        internal static void EliminarCuenta(Cuenta cuenta)
+        public static void EliminarCuenta(Cuenta cuenta)
         {
             if (ExisteEnMayor(cuenta.Codigo))
             {
